@@ -1,0 +1,1 @@
+enum Fruta {Mango, Habichuela}
