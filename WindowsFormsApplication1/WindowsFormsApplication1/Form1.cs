@@ -12,6 +12,8 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+        private int exito;
+        
         public Form1()
         {
             InitializeComponent();
